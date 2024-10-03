@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/automate/pom.xml" />
+        <option value="$PROJECT_DIR$/worker/pom.xml" />
+        <option value="$PROJECT_DIR$/camunda-service/pom.xml" />
       </list>
     </option>
   </component>
