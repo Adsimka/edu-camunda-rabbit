@@ -25,7 +25,7 @@ public class RegistrationRequestsListener {
         log.info("Received message {}", payload);
         try {
             processDefinitionApi.startProcessInstanceByKey(
-                    "my-project-process",
+                    "Process_0ptv4iz",
                     new StartProcessInstanceDto().variables(makeVariables(payload))
             );
         } catch (ApiException ex) {

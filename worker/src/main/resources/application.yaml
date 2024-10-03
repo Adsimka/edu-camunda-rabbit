@@ -4,6 +4,8 @@ server:
 
 spring:
   rabbitmq:
+    username: arsen
+    password: arsen
     host: localhost
     port: 5672
 
